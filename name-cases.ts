@@ -1,9 +1,8 @@
-const fullName: string = "Ali Murtaza";
-
+const full_Name: string = "Ali Murtaza";
 
 
 function toLowerCase(): string {
-    return fullName.toLowerCase()
+    return full_Name.toLowerCase()
 }
 
 console.log(toLowerCase());
@@ -11,7 +10,7 @@ console.log(toLowerCase());
 
 
 function toUpperCase(): string {
-    return fullName.toUpperCase()
+    return full_Name.toUpperCase()
 }
 
 console.log(toUpperCase());
