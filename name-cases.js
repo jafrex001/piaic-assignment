@@ -1,4 +1,5 @@
-var full_Name = "Ali Murtaza";
+"use strict";
+const full_Name = "Ali Murtaza";
 function toLowerCase() {
     return full_Name.toLowerCase();
 }

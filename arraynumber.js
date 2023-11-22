@@ -1,3 +1,4 @@
-var newGuestList = ["Stephen Hawkings", "Neil Degrass Tyson", "Seth Godin"];
-var guestNumber = newGuestList.length;
+"use strict";
+let newGuestList = ["Stephen Hawkings", "Neil Degrass Tyson", "Seth Godin"];
+let guestNumber = newGuestList.length;
 console.log(guestNumber);

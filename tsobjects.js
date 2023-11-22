@@ -1,4 +1,5 @@
-var customer1 = {
+"use strict";
+let customer1 = {
     name: "Asim",
     age: 24,
     email: "asim@gmail.com"

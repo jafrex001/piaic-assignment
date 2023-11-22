@@ -1,5 +1,6 @@
-var favCountries = ["USA", "UK", "Canada", "Japan"];
+"use strict";
+let favCountries = ["USA", "UK", "Canada", "Japan"];
 console.log("My Favorite Countries Are:");
-favCountries.forEach(function (element) {
+favCountries.forEach(element => {
     console.log("-" + element);
 });

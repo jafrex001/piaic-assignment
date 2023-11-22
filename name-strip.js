@@ -1,4 +1,5 @@
-var personName = "\t Babar Azam";
+"use strict";
+let personName = "\t Babar Azam";
 console.log(personName);
-var trimmedName = personName.trim();
+let trimmedName = personName.trim();
 console.log(trimmedName);
