@@ -1,6 +1,8 @@
 let newMagicians: string[] = ["Tyler", "Ninja", "Blevins"];
 
 function show_newMagicians() {
+    let oldmagicians = new Array (newMagicians);
+    console.log(oldmagicians);
     make_great();
     newMagicians.forEach(newMagician => {
         console.log(newMagician);
@@ -16,3 +18,4 @@ function make_great() {
 }
 
 show_newMagicians();
+
