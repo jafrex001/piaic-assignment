@@ -1,5 +1,4 @@
 "use strict";
-// Version 1 
 let alienNum3 = 1;
 if (alienNum3 === 1) {
     console.log("Congratulations! You just earned 5 points for shooting the green alien.");
